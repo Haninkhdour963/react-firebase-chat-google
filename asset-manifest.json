@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-firebase-chat-google/static/css/main.6b2f8516.css",
+    "main.js": "/react-firebase-chat-google/static/js/main.c717872a.js",
+    "static/js/453.a6da5337.chunk.js": "/react-firebase-chat-google/static/js/453.a6da5337.chunk.js",
+    "index.html": "/react-firebase-chat-google/index.html",
+    "main.6b2f8516.css.map": "/react-firebase-chat-google/static/css/main.6b2f8516.css.map",
+    "main.c717872a.js.map": "/react-firebase-chat-google/static/js/main.c717872a.js.map",
+    "453.a6da5337.chunk.js.map": "/react-firebase-chat-google/static/js/453.a6da5337.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b2f8516.css",
+    "static/js/main.c717872a.js"
+  ]
+}
