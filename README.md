@@ -1,4 +1,52 @@
 # Getting Started with Create React App
+# 💬 Firebase Realtime Chat App
+
+A real-time chat application built with **React** and **Firebase**, allowing users to:
+
+- ✍️ Send and receive messages instantly
+- 🔐 Sign in with Google (OAuth)
+- 🧑‍🤝‍🧑 View user avatars and names
+- 📱 Use the app on mobile & desktop
+
+---
+
+## 🌐 Live Demo
+
+👉 (https://Haninkhdour963.github.io/react-firebase-chat-google)
+
+---
+
+## ✨ Features
+
+- Realtime messaging via Firebase Firestore
+- Google Authentication with Firebase Auth
+- User avatars and usernames
+- Auto-scroll to latest message
+- Responsive layout (mobile/tablet/desktop)
+- Firebase SDK v9 Modular
+
+---
+
+## 🛠 Built With
+
+- React (Create React App)
+- Firebase (Auth & Firestore)
+- JavaScript (ES6+)
+- CSS (Custom Styling)
+
+---
+
+## 🔐 Firebase Setup
+
+1. Go to [https://console.firebase.google.com](https://console.firebase.google.com)
+2. Create a new project
+3. Enable **Firestore Database**
+4. Enable **Authentication → Google Sign-In**
+5. Go to Project Settings → Add App → Copy your Firebase config into `firebase.js`
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
